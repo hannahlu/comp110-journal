@@ -15,7 +15,9 @@ In conclusion, for a physical system to be able to perform a computation, the pr
 
 In this paper, B.Shneiderman et al [2], set up five experiments to see if and how university students might benefit from the use of flowcharts in improving their composition, comprehension, debugging and modification skills for computer programming. 
 
-Their motivation behind the study was that, whilst widely used in both professional and educational programming enviroments, flowcharts had been found by some researchers to have little improvement on programming skills. For example, Weinberg [3] explains "we find no evidence that the original coding plus flow diagrams is any easier to understand than the original coding itself". However, other reseachers, such as Kammann [4], had found the use of flowcharts to be effective in other sectors, as they helped to seperate relevant information from the irrelevant. 
+<h5>Motivation</h5>
+
+Whilst widely used in both professional and educational programming enviroments, flowcharts have been found by some researchers to have little improvement on programming skills. For example, Weinberg [3] explains "we find no evidence that the original coding plus flow diagrams is any easier to understand than the original coding itself". However, other reseachers, such as Kammann [4], had found the use of flowcharts to be effective in other sectors, as they helped to seperate relevant information from the irrelevant. 
 
 It seems that, as in Mayer's [5] study, whilst flowcharts may be of help with high-level composition, they do not enhance an individuals comprehension. Therefore, it may be possible for individuals to write the program and ones similar, but transferring their knowledge to other coding tasks will be hindered by a lack of understanding at a lower level.
 
