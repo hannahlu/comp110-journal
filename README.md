@@ -1,6 +1,6 @@
 # comp110-journal
 
-Entry 1: When does a physical system compute?
+<h3>Entry 1: When does a physical system compute?</h3>
 
 Is everything a computer? The answer as far as Horsman C et al [1], are concerned, is no; not everything in the universe is acting as a computer.  They argue that declaring everything as a computer, negates the existence of physical computation in its own right and that a framework is needed for determining whether a physical system is performing a computation. The proposed requirements for a physical system to be performing a computation are as follows:
 
@@ -11,7 +11,7 @@ Is everything a computer? The answer as far as Horsman C et al [1], are concerne
 
 In conclusion, for a physical system to be able to perform a computation, the proposed requirements are: a strong physical theory of the computer, which we are confident with and have tested, a computational entity, a representation relation, ability to encode and decode information and one or more fundamental dynamical operations (such as logic gates) which are able to transfer input states to output states. Finally, all these elements need to pass the relevant commuting diagrams proposed.
 
-Entry 2: Experimental Investigations of the Utility of Detailed Flowcharts in Programming 
+<h3>Entry 2: Experimental Investigations of the Utility of Detailed Flowcharts in Programming.</h3>
 
 - Flowcharts are widely used in both professional and educational programming settings.
 - Developments in programming languages, requires new sets of conventions in flowcharts and many programmers
