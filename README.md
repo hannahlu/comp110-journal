@@ -21,7 +21,7 @@ In this paper, B.Shneiderman et al [2], set up five experiments to see if and ho
 
 Whilst widely used in both professional and educational programming enviroments, flowcharts have been found by some researchers to have little improvement on programming skills. For example, Weinberg [3] explains "we find no evidence that the original coding plus flow diagrams is any easier to understand than the original coding itself". However, other reseachers, such as Kammann [4], had found the use of flowcharts to be effective in other sectors, as they helped to seperate relevant information from the irrelevant. 
 
-<h5>Experiments</h5>
+<h5>Experiment</h5>
 
 In all five of the experiments performed by B. Sneiderman et al [2], testing the composition, comprehension, debugging and/or modifcation skills in university students learning programming, found no signficant positive or negative advantages in the use of flowcharts. In one sample, the non-flowchart group outperformed those using flowcharts. It was also observed, in experiment 2, that the subjects rarely made use of the flowcharts, instead working with the program alone. 
 
@@ -29,7 +29,7 @@ In all five of the experiments performed by B. Sneiderman et al [2], testing the
 
 It seems that, as in Mayer's [5] study, whilst flowcharts may be of help with high-level composition, they do not enhance an individuals comprehension. Therefore, it may be possible for individuals to write the program and ones similar, but transferring their knowledge to other coding tasks will be hindered by a lack of understanding at a lower level. 
 
-<h5>Conclusions</h5>
+<h5>Conclusion</h5>
 In conclusion, whilst the researchers had set out to find the areas of computer programming that flowcharts would be most beneficial to, they found no correlation between flowcharts and increased performance in any of their programming tasks. Whilst more research needs to be done, such as sampling professional programmers, the evidence from this paper puts into question the productiveness of using flowcharts in computer programming, especially in an educational setting.
 
 Reference List:
