@@ -1,6 +1,6 @@
 # comp110-journal
 
-Entry 1: 10 October 2016
+Entry 1: When does a physical system compute?
 
 Is everything a computer? The answer as far as Horsman C et al [1], are concerned, is no; not everything in the universe is acting as a computer.  They argue that declaring everything as a computer, negates the existence of physical computation in its own right and that a framework is needed for determining whether a physical system is performing a computation. The proposed requirements for a physical system to be performing a computation are as follows:
 
@@ -10,6 +10,28 @@ Is everything a computer? The answer as far as Horsman C et al [1], are concerne
 -	Without encoding and decoding, the physical system is not being used as a computer.
 
 In conclusion, for a physical system to be able to perform a computation, the proposed requirements are: a strong physical theory of the computer, which we are confident with and have tested, a computational entity, a representation relation, ability to encode and decode information and one or more fundamental dynamical operations (such as logic gates) which are able to transfer input states to output states. Finally, all these elements need to pass the relevant commuting diagrams proposed.
+
+Entry 2: Experimental Investigations of the Utility of Detailed Flowcharts in Programming 
+
+- Flowcharts are widely used in both professional and educational programming settings.
+- Developments in programming languages, requires new sets of conventions in flowcharts and many programmers
+create their own methods.
+- Researchers such as, Weinberg[], found little, if any, improvements to programming, when using flowcharts. Weinberg
+notes that 'we find no evidence that the original coding plus flow diagrams is any easier to understand than the original
+coding itself'
+- Researchers, such as Kammann[] have found flowcharts to be useful in other sectors, as the use of flowcharts
+helped to distinguish relevant from irrelevant information.
+- Composition, comprehension, debugging and modification.
+- In all five of the experiments, testing the composition, comprehension, debugging or modifcation skills in 
+university students learning programming, found any signficant positive or negative advantages in the use of
+flowcharts. In one sample, the non-flowchart group outperformed those using flowcharts. It was also observed, in experiment
+2, that the subjects rarely made use of the flowcharts, instead focusing only on the program itself.
+- In conclusion, whilst the researchers had set out to find the areas of computer programming that flowcharts are
+most beneficial to, they found no correlation between flowcharts and increased performance in any of their defined
+programming tasks. Whilst more research needs to be done, such as sampling professional programmers, the evidence 
+from this paper puts into question the productiveness of using flowcharts in computer programming, especially in 
+an educational setting.
+
 
 Reference List:
 [1] Horsman C, Stepney S, Wagner RC, Kendon V. 2014 When does a physical system compute? Proc. R. Soc. A 470: 20140182. [Online] Available at www.dx.doi.org/10.1098/rspa.2014.0182 [Accessed on 19 September 2016].
