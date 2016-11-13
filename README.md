@@ -39,6 +39,9 @@
 <h5>Conclusion</h5>
 >In conclusion, whilst the researchers had set out to find the areas of computer programming that flowcharts would be most beneficial to, they found no correlation between flowcharts and increased performance in any of their programming tasks. Whilst more research needs to be done, such as sampling professional programmers, the evidence from this paper puts into question the productiveness of using flowcharts in computer programming, especially in an educational setting.
 
+<h2>Entry 3: A Fast Procedure for Computing the Distance Between Complex Objects in Three-Dimensional Space.</h2>
+ 
+
 Reference List:
 
 >[1] C.Horsman, S. Stepney, R,C. Wagner and V. Kendon. 2014. When does a physical system compute? Proc. R. Soc. A 470: 20140182. [Online] Available at <a href="www.dx.doi.org/10.1098/rspa.2014.0182">www.rspa.royalsocietypublishing.org</a> [Accessed on 19 September 2016].
