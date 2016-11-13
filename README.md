@@ -13,7 +13,8 @@ In conclusion, for a physical system to be able to perform a computation, the pr
 
 <h3>Entry 2: Experimental Investigations of the Utility of Detailed Flowcharts in Programming.</h3>
 
-In this paper, B.Shneiderman et al[2], set up five experiments to see if and how university students might benefit from the use of flowcharts in improving their composition, comprehension, debugging and modication skills for computer programming. 
+In this paper, B.Shneiderman et al [2], set up five experiments to see if and how university students might benefit from the use of flowcharts in improving their composition, comprehension, debugging and modication skills for computer programming. 
+
 Their motivation behind the study was that, whilst widely used in both professional and educational programming enviroments, flowcharts had been found by some researchers to have little improvement on programming skills. For example, Weinberg[3] explains "we find no evidence that the original coding plus flow diagrams is any easier to understand than the original coding itself". However, other reseachers, such as Kammann[4], had found the use of flowcharts to be effective in other sectors, as they helped to seperate relevant information from the irrelevant. 
 
 In all five of the experiments performed by B. Sneiderman et al[2], testing the composition, comprehension, debugging and/or modifcation skills in university students learning programming, found any signficant positive or negative advantages in the use of flowcharts. In one sample, the non-flowchart group outperformed those using flowcharts. It was also observed, in experiment 2, that the subjects rarely made use of the flowcharts, instead focusing only on the program itself. 
