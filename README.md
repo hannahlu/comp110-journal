@@ -41,7 +41,7 @@
 
 <h3>Entry 3: A Fast Procedure for Computing the Distance Between Complex Objects in Three-Dimensional Space.</h3>
 
-<h3>Letters to the editor: go to statements considered harmful.</h3>
+<h3>Entry 4: Letters to the editor: go to statements considered harmful.</h3>
  
 
 Reference List:
