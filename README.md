@@ -38,3 +38,7 @@ Reference List:
 [1] C.Horsman, S. Stepney, R,C. Wagner and V. Kendon. 2014. When does a physical system compute? Proc. R. Soc. A 470: 20140182. [Online] Available at <a href="www.dx.doi.org/10.1098/rspa.2014.0182">www.rspa.royalsocietypublishing.org</a> [Accessed on 19 September 2016].
 
 [2] B. Shneiderman, R. Mayer, D. McKay and P. Heller. Experimental Investigations of the Utility of Detailed Flowcharts in Programming. Communications of the ACM. Volume 20, Issue 6, June 1977, pp. 373 - 381. [Online] Available at: <a href="http://delivery.acm.org.ezproxy.falmouth.ac.uk/10.1145/360000/359610/p373-shneiderman.pdf?ip=193.61.64.8&id=359610&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2EEAA225A8AB01C582%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=864543017&CFTOKEN=41903114&__acm__=1479060359_29217e13cfe7e195550b195869d67ecc">wwww.acm.org</a>  [Accessed on 4 October 2016]
+
+[3] Weinberg, G.M. Tile Psychology of Computer Programming. Van Nostrand, Princeton, N.J., 1971. 
+
+[4] Kammann, R. The comprehensibility of printed instructions and the flowchart alternative. Human Factors 17, 2 (1975), 183-191. 
