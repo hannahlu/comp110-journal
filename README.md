@@ -46,7 +46,7 @@
 
 Reference List:
 
->[1] C.Horsman, S. Stepney, R,C. Wagner and V. Kendon. When does a physical system compute? <i>Proc. R. Soc. A</i>, vol.470, no.2169, 14 Nov 2004. [Online] Available at www.dx.doi.org/10.1098/rspa.2014.0182 [Accessed on 19 September 2016].
+>[1] C. Horsman, S. Stepney, R.C. Wagner and V. Kendon. When does a physical system compute? <i>Proc. R. Soc. A</i>, vol. 470, no. 2169, 14 Nov 2004. [Online] Available at www.dx.doi.org/10.1098/rspa.2014.0182 [Accessed on 19 September 2016].
 
 >[2] B. Shneiderman, R. Mayer, D. McKay and P. Heller. Experimental Investigations of the Utility of Detailed Flowcharts in Programming. Communications of the ACM. Volume 20, Issue 6, June 1977, pp. 373 - 381. [Online] Available at: <a href="http://delivery.acm.org.ezproxy.falmouth.ac.uk/10.1145/360000/359610/p373-shneiderman.pdf?ip=193.61.64.8&id=359610&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2EEAA225A8AB01C582%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=864543017&CFTOKEN=41903114&__acm__=1479060359_29217e13cfe7e195550b195869d67ecc">wwww.acm.org</a>  [Accessed on 4 October 2016]
 
@@ -55,3 +55,8 @@ Reference List:
 >[4] Kammann, R. The comprehensibility of printed instructions and the flowchart alternative. Human Factors 17, 2 (1975), 183-191. 
 
 >[5] Mayer, R.E. Different problem-solving competencies established in learning computer programming with and without meaningful models. J. Educ. Psych. 67, 6 (1975), 725-734.
+
+>[6] E. G. Gilbert, D. W. Johnson and S. S. Keerthi, "A fast procedure for computing the distance between complex objects in three-dimensional space," in IEEE Journal on Robotics and Automation, vol. 4, no. 2, pp. 193-203, Apr 1988.
+
+
+
